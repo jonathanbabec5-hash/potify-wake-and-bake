@@ -2,7 +2,7 @@
 
 **Question.** Make a short, time-stamped daily report readers can check for themselves.
 
-**Source and change.** Established Wake & Bake series and dated November 14 production brief. This is a new reusable, data-empty production worksheet. The seven view assignments are editorial choices for this version.
+**Source and change.** Original seven vertical chart frames and contact sheet from Wake_and_Bake_POTIFY_7_VERTICAL_CHARTS.zip. October 9 chart imagery, with an October 18 script in the original archive. The reusable worksheet now follows the seven archived headings. The screenshots are historical.
 
 **Observed result.** The commands below ran in a clean test context using local files and fixtures.
 

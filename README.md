@@ -28,7 +28,7 @@ python3 -m unittest discover -s tests
 
 ### Release scope
 
-No live quotes, trading signal, unapproved post copy or sponsor agreement is supplied. Established Wake & Bake series and dated November 14 production brief. This is a new reusable, data-empty production worksheet. The seven view assignments are editorial choices for this version.
+No live quotes, trading signal, unapproved post copy or sponsor agreement is supplied. Original seven vertical chart frames and contact sheet from Wake_and_Bake_POTIFY_7_VERTICAL_CHARTS.zip. October 9 chart imagery, with an October 18 script in the original archive. The reusable worksheet now follows the seven archived headings. The screenshots are historical.
 
 [Technical whitepaper](docs/WHITEPAPER.md) · [Marketing and sales plan](docs/MARKETING.md) · [Dated developer log](docs/BUILD-LOG.md)
 
