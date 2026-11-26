@@ -1,6 +1,14 @@
-# Wake & Bake POTIFY Price Update
+# Wake and Bake POTIFY Price Update
 
 [Complete repository directory tree](docs/DIRECTORY.md)
+
+## A chart needs a clock
+
+There is an honest sentence a market show should be willing to say on a quiet evening: the last trade is old. A fresh screenshot does not make it new. Wake and Bake POTIFY Price Update starts by giving each observation its own time, interval and source.
+
+The [episode worksheet](examples/issue.json) opens with the observation time and verified mint. The [renderer](src/render.py) holds the editorial structure together; it does not fetch a fresh market price. Archived chart frames stay attached to their original dates.
+
+Use the example to trace a single price statement back to its chart and time. If it cannot be traced, leave it unknown and suggest the missing source field. This review concerns editorial evidence; it makes no trading call or promise.
 
 **Editorial production kit.** Make a short, time-stamped daily report readers can check for themselves.
 
@@ -12,7 +20,7 @@ Python 3.10 or newer. The project uses the standard library.
 python3 src/render.py examples/issue.json
 ```
 
-Review one episode worksheet. Use the worksheet for a 2–4 minute captioned episode. Supply the pair, chart interval, time zone, observation date and reliable source. The renderer produces a local draft.
+Review one episode worksheet. The worksheet supports the source-only 22:00 ET review. Draft a continuous 60–90 second script, or roughly two minutes for the supplied seven-chart format. Supply the pair, chart interval, time zone, observation date and reliable source. The renderer produces a local draft.
 
 ### Developer entry points
 
