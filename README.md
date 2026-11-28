@@ -1,5 +1,13 @@
 # Wake and Bake POTIFY Price Update
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A viewer | [Read an episode worksheet](examples/issue.json) | Look for the observation time and chart source. |
+| An editor | [Inspect the renderer](src/render.py) | Trace a price statement back to a dated source. |
+| A contributor | [Explore the project tree](docs/DIRECTORY.md) | Suggest a missing evidence field using fictional data. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A chart needs a clock
